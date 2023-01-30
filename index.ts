@@ -169,3 +169,5 @@ declare namespace FB_STANDARDS_EVENTS {
     ? FB_STANDARDS_EVENTS.SUBSCRIBE
     : never;
 }
+
+export default FB_STANDARDS_EVENTS;

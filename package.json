@@ -1,7 +1,7 @@
 {
   "name": "facebook-standard-events",
   "description": "A simple library to type standard Facebook events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
